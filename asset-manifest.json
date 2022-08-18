@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DataType-Determiner.github.io/static/css/main.657ec781.css",
+    "main.js": "/DataType-Determiner.github.io/static/js/main.7c7f1716.js",
+    "static/js/787.f05df9dd.chunk.js": "/DataType-Determiner.github.io/static/js/787.f05df9dd.chunk.js",
+    "index.html": "/DataType-Determiner.github.io/index.html",
+    "main.657ec781.css.map": "/DataType-Determiner.github.io/static/css/main.657ec781.css.map",
+    "main.7c7f1716.js.map": "/DataType-Determiner.github.io/static/js/main.7c7f1716.js.map",
+    "787.f05df9dd.chunk.js.map": "/DataType-Determiner.github.io/static/js/787.f05df9dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657ec781.css",
+    "static/js/main.7c7f1716.js"
+  ]
+}
